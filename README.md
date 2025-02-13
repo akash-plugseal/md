@@ -1,5 +1,3 @@
-# md
-
 # Node.js `fs` (File System) Cheat Sheet
 
 ## 📌 Importing `fs` Module
